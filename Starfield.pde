@@ -3,7 +3,7 @@ Particle [] stars;
 public void setup()
 {
 	//your code here
-	size(800,800);
+	size(600,600);
 	stars = new Particle[1000];
 
 		for (int i = 2; i < stars.length; i++) {
